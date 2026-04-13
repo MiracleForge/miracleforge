@@ -1,16 +1,22 @@
-## Hi there 👋
+# Paulo Rosado • MiracleForge
 
-<!--
-**MiracleForge/miracleforge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+I'm **Paulo**, a full‑stack web developer based in **Salvador, Bahia, Brazil**.  
+My main focus is building modern applications with **TypeScript** across the stack — from frontend interfaces to backend services.  
 
-Here are some ideas to get you started:
+## 💻 Professional Focus
+- Full‑stack web development with **TypeScript** ***PostGreSQL*** ***Nextjs***
+- Writing clean, maintainable, and scalable code
+- Strong emphasis on user experience and performance  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Personal Interests
+- Passionate about **Linux** as a hobby and daily driver  
+- Exploring open‑source ecosystems and contributing 
+- Constantly learning and refining development practices  
+
+## 🌟 Highlight Project
+***Marketwatch Applet*** — an open-source applet for the COSMIC desktop environment, built for the community and officially available on the COSMIC Store.
+- Provides real‑time market data and customizable alerts.  
+- Designed to integrate smoothly into the COSMIC ecosystem.  
+- Authored and maintained independently by me.  
+

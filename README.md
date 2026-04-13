@@ -5,7 +5,7 @@ I'm **Paulo**, a full‑stack web developer based in **Salvador, Bahia, Brazil**
 My main focus is building modern applications with **TypeScript** across the stack — from frontend interfaces to backend services.  
 
 ## 💻 Professional Focus
-- Full‑stack web development with **TypeScript** ***PostGreSQL*** ***Nextjs***
+- Full‑stack web development with **TypeScript** ,***PostGreSQL***, ***Nextjs***
 - Writing clean, maintainable, and scalable code
 - Strong emphasis on user experience and performance  
 

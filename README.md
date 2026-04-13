@@ -15,7 +15,7 @@ My main focus is building modern applications with **TypeScript** across the sta
 - Constantly learning and refining development practices  
 
 ## 🌟 Highlight Project
-***Marketwatch Applet*** — an external open-source applet for the COSMIC desktop environment, built for the community and officially available on the COSMIC Store.
+***Marketwatch Applet*** — an external open-source applet for the COSMIC desktop environment, built for the community and officially available on the COSMIC Store(via Cosmic desktop).
 - Provides real‑time market data and customizable alerts.  
 - Designed to integrate smoothly into the COSMIC ecosystem.  
 - Mintained by me.
